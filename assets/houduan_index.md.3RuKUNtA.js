@@ -1,1 +1,0 @@
-import{ax as e,q as t,p as a}from"./chunks/framework.DtYAO0R4.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"houduan/index.md","filePath":"houduan/index.md","lastUpdated":null}'),n={name:"houduan/index.md"};function d(o,r,s,c,i,p){return a(),t("div")}const _=e(n,[["render",d]]);export{l as __pageData,_ as default};
