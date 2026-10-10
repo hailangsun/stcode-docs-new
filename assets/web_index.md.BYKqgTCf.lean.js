@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.3DFGvyCk.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"web/index.md","filePath":"web/index.md","lastUpdated":null}'),n={name:"web/index.md"};function r(o,s,d,c,i,p){return t(),a("div")}const m=e(n,[["render",r]]);export{l as __pageData,m as default};
